@@ -1,0 +1,14 @@
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.exe
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.deps.json
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.runtimeconfig.json
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.dll
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\bin\Debug\net6.0\RockPaperScissorsGame.pdb
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.AssemblyInfo.cs
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.dll
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\refint\RockPaperScissorsGame.dll
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.pdb
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\RockPaperScissorsGame.genruntimeconfig.cache
+C:\Users\Jakub\MyDocuments\GitHubDesktopProjects\Dependency_Injection_Practise\RockPaperScissorsGame\obj\Debug\net6.0\ref\RockPaperScissorsGame.dll
