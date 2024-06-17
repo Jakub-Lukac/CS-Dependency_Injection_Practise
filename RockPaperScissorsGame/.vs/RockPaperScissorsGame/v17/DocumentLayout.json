@@ -6,12 +6,22 @@
       "AbsoluteMoniker": "D:0:0:{4B8852B5-C0E5-43A1-B512-E91FAA5E3F41}|..\\DependencyInjection.Test\\DependencyInjection.Test.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\dependencyinjection.test\\rpstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8852B5-C0E5-43A1-B512-E91FAA5E3F41}|..\\DependencyInjection.Test\\DependencyInjection.Test.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\dependencyinjection.test\\forcedplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8852B5-C0E5-43A1-B512-E91FAA5E3F41}|..\\DependencyInjection.Test\\DependencyInjection.Test.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\dependencyinjection.test\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -20,13 +30,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:iplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B8852B5-C0E5-43A1-B512-E91FAA5E3F41}|..\\DependencyInjection.Test\\DependencyInjection.Test.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\dependencyinjection.test\\forcedplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|c:\\users\\jakub\\mydocuments\\githubdesktopprojects\\dependency_injection_practise\\rockpaperscissorsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FBE1C4-BEBB-49A8-A959-4B1102EAE9B4}|RockPaperScissorsGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,17 +39,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:37:02.86Z",
               "IsPinned": true,
@@ -54,7 +57,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\DependencyInjection.Test\\Usings.cs",
+              "RelativeDocumentMoniker": "..\\DependencyInjection.Test\\Usings.cs",
+              "ToolTip": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\DependencyInjection.Test\\Usings.cs",
+              "RelativeToolTip": "..\\DependencyInjection.Test\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:05:55.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ForcedPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\DependencyInjection.Test\\ForcedPlayer.cs",
               "RelativeDocumentMoniker": "..\\DependencyInjection.Test\\ForcedPlayer.cs",
@@ -79,16 +103,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ComputerPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\ComputerPlayer.cs",
               "RelativeDocumentMoniker": "ComputerPlayer.cs",
@@ -101,39 +117,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HumanPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\HumanPlayer.cs",
               "RelativeDocumentMoniker": "HumanPlayer.cs",
               "ToolTip": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\HumanPlayer.cs",
               "RelativeToolTip": "HumanPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:42:42.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\IPlayer.cs",
               "RelativeDocumentMoniker": "IPlayer.cs",
               "ToolTip": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\IPlayer.cs",
               "RelativeToolTip": "IPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:42:12.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
               "ToolTip": "C:\\Users\\Jakub\\MyDocuments\\GitHubDesktopProjects\\Dependency_Injection_Practise\\RockPaperScissorsGame\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwBkAAAAtAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T15:39:10.119Z",
               "EditorCaption": ""
